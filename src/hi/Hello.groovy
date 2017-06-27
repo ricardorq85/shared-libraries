@@ -1,6 +1,6 @@
 package hi;
 
-class HelloWorld {
+class Hello {
 
 	def hi() {
 		echo "Hi World from Shared Library!"
